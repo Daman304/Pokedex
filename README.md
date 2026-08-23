@@ -211,7 +211,15 @@ git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
 ---
 
 ## 📸 Screenshots
+<p align="center">
+  <img src="screenshot/Screenshot_20260823_232644.png" width="250" />
+  <img src="screenshot/Screenshot_20260823_232704.png" width="250" />
+</p>
 
+<p align="center">
+  <b>Pokédex Home Screen</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Pokémon Details Screen</b>
+</p>
 
 ---
 
